@@ -8,7 +8,7 @@ body {
     width: 80%;
     border: 15px solid green;
     padding: 2%;
-    margin: 2% 15% 2% 10%;
+    margin: 2% 7%;
 }
 
 #mainHeading {
@@ -21,12 +21,12 @@ body {
 .column {
     float: left;
     width: 30%;
-    padding: 10%;
+    padding: 1%;
+    
 }
 
-.row::after {
-    content: "";
-    clear: both;
+.row {
+   
     display: table;
 }
 
