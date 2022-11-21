@@ -1,35 +1,34 @@
-
-body{
+body {
     margin: 8px;
 }
+
 .box {
-   
-   background-color: lightgrey;
+
+    background-color: lightgrey;
     width: 80%;
     border: 15px solid green;
     padding: 2%;
     margin: 2% 15% 2% 10%;
-  }
+}
 
 #mainHeading {
     font-size: 50px;
     font-weight: bold;
     text-align: center;
     color: red
-    
 }
 
 .column {
     float: left;
     width: 30%;
     padding: 10%;
-  }
-  
-  .row::after {
+}
+
+.row::after {
     content: "";
     clear: both;
     display: table;
-  }
+}
 
 .vamanan {
     width: 52%;
@@ -45,7 +44,7 @@ footer {
 }
 
 img {
-    border: 2px solid crimson ;
+    border: 2px solid crimson;
 
 }
 
@@ -55,6 +54,7 @@ img {
     height: 50px;
     border: none;
 }
+
 .funParagraph {
     color: green;
 }
