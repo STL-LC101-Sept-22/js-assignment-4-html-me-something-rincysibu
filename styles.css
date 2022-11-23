@@ -5,10 +5,9 @@ body {
 .box {
 
     background-color: lightgrey;
-    width: 80%;
     border: 15px solid green;
     padding: 2%;
-    margin: 2% 7%;
+    margin: 8px;
 }
 
 #mainHeading {
